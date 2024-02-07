@@ -1,5 +1,5 @@
-title = "GGViz, Grammar of Graphics Visualization"
-baseURL = "https://ggviz.com"
+title = "Data Table Ninjas"
+baseURL = "https://datatableninjas.com"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "GGViz"
+    title = "Data Table Ninjas"
     weight = 1
     contentDir = "content/en"
 
@@ -33,6 +33,6 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "github"
-url = "https://github.com/ggviz"
+url = "https://github.com/Data-Table-Ninjas"
 
 

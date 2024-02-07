@@ -18,9 +18,9 @@ Our services include
 
 ## Who we are
 
-* Toby Dylan Hocking, Assistant Professor in the School of Informatics, Computing, and Cyber Systems, at Northern Arizona University. (20+ years experience R programming)
-* Kelly Bodwin, Associate Professor of Statistics and Data Science at Cal Poly San Luis Obispo. (10+ years R programming)
-* Tyson Barrett, Research Assistant Professor in the Department of Psychology at Utah State University. (10+ years R programming)
+* [Toby Dylan Hocking](http://tdhock.github.io/), Assistant Professor in the School of Informatics, Computing, and Cyber Systems, at Northern Arizona University. (20+ years experience R programming)
+* [Kelly Bodwin](https://www.kelly-bodwin.com/), Associate Professor of Statistics and Data Science at Cal Poly San Luis Obispo. (10+ years R programming)
+* [Tyson Barrett](https://tysonbarrett.com/), Research Assistant Professor in the Department of Psychology at Utah State University. (10+ years R programming)
 
 ## Contact
 
