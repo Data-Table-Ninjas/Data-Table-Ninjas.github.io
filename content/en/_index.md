@@ -16,6 +16,12 @@ Our services include
 * data visualization,
 * and teaching specialized programming classes related to these subjects.
 
+We can show you how the efficiency of `data.table` can be a critical
+part of your big data pipelines, to optimize the use of finite
+computational resouces (time and memory). In benchmarks, `data.table`
+can be 100x faster than other software that provides similar
+functionality (R tidyverse, python pandas, polars, arrow, etc).
+
 ## Who we are
 
 * [Toby Dylan Hocking](http://tdhock.github.io/), Assistant Professor in the School of Informatics, Computing, and Cyber Systems, at Northern Arizona University. (20+ years experience R programming)
