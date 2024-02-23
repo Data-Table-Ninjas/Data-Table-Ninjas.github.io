@@ -27,6 +27,7 @@ functionality (R tidyverse, python pandas, polars, arrow, etc).
 * [Toby Dylan Hocking](http://tdhock.github.io/), Assistant Professor in the School of Informatics, Computing, and Cyber Systems, at Northern Arizona University. (20+ years experience R programming)
 * [Kelly Bodwin](https://www.kelly-bodwin.com/), Associate Professor of Statistics and Data Science at Cal Poly San Luis Obispo. (10+ years R programming)
 * [Tyson Barrett](https://tysonbarrett.com/), Research Assistant Professor in the Department of Psychology at Utah State University. (10+ years R programming)
+* [Jan Gorecki](https://github.com/jangorecki), data engineer, programmer, former data warehouse specialist; ex-IBM, ex-H2O.AI; 11 years in R, 6 years in C.
 
 ## Contact
 
