@@ -24,11 +24,25 @@ functionality (R tidyverse, python pandas, polars, arrow, etc).
 
 ## Who we are
 
-* [Toby Dylan Hocking](http://tdhock.github.io/), Assistant Professor in the School of Informatics, Computing, and Cyber Systems, at Northern Arizona University. (20+ years experience R programming)
-* [Kelly Bodwin](https://www.kelly-bodwin.com/), Associate Professor of Statistics and Data Science at Cal Poly San Luis Obispo. (10+ years R programming)
-* [Tyson Barrett](https://tysonbarrett.com/), Research Assistant Professor in the Department of Psychology at Utah State University. (10+ years R programming)
-* [Jan Gorecki](https://github.com/jangorecki), data engineer, programmer, former data warehouse specialist; ex-IBM, ex-H2O.AI; 11 years in R, 6 years in C.
+### [Toby Dylan Hocking](http://tdhock.github.io/)
+
+Assistant Professor in the School of Informatics, Computing, and Cyber Systems, at Northern Arizona University, 20+ years experience programming in R/C/C++/Python/JavaScript.
+
+<div class="tidycal-embed" data-path="tdhock5"></div>
+<script src="https://asset-tidycal.b-cdn.net/js/embed.js" async></script>
+
+### [Kelly Bodwin](https://www.kelly-bodwin.com/)
+
+Associate Professor of Statistics and Data Science at Cal Poly San Luis Obispo, 10+ years R programming.
+
+###  [Tyson Barrett](https://tysonbarrett.com/)
+
+Research Assistant Professor in the Department of Psychology at Utah State University, 10+ years R programming.
+
+### [Jan Gorecki](https://github.com/jangorecki)
+
+Data engineer, programmer, former data warehouse specialist; ex-IBM, ex-H2O.AI; 11 years in R, 6 years in C.
 
 ## Contact
 
-Please email toby.hocking@r-project.org with a description of the programming/teaching project you would like us to do for you, and we can schedule a free discovery call to discuss our proposed solution, with a quote for how much that would cost.
+Please book a meeting using one of the links below, or email toby.hocking@r-project.org with a description of the programming/teaching project you would like us to do for you, and we can schedule a free discovery call to discuss our proposed solution, with a quote for how much that would cost.
