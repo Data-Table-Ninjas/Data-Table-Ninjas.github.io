@@ -26,7 +26,7 @@ functionality (R tidyverse, python pandas, polars, arrow, etc).
 
 ### [Toby Dylan Hocking](http://tdhock.github.io/)
 
-Assistant Professor in the School of Informatics, Computing, and Cyber Systems, at Northern Arizona University, 20+ years experience programming in R/C/C++/Python/JavaScript.
+Assistant Professor in the School of Informatics, Computing, and Cyber Systems, at Northern Arizona University, 20+ years experience programming in R/C/C++/Python/JavaScript. Book a [15 minute discovery call for free](https://tidycal.com/tdhock5/15-minute-meeting), or a [60 minute consultation for $100](https://tidycal.com/tdhock5/60-minute-meeting).
 
 <div class="tidycal-embed" data-path="tdhock5"></div>
 <script src="https://asset-tidycal.b-cdn.net/js/embed.js" async></script>
