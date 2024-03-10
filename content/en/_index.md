@@ -37,7 +37,7 @@ Associate Professor of Statistics and Data Science at Cal Poly San Luis Obispo, 
 
 ###  [Tyson Barrett](https://tysonbarrett.com/)
 
-Research Assistant Professor in the Department of Psychology at Utah State University, 10+ years R programming.
+Research Assistant Professor in the Department of Psychology at Utah State University, 10+ years R programming. Book a [15 minute discovery call for free](https://tidycal.com/tbarrett88/15-minute-meeting), or a [60 minute consultation for $100](https://tidycal.com/tbarrett88/60-minute-meeting).
 
 ### [Jan Gorecki](https://github.com/jangorecki)
 
