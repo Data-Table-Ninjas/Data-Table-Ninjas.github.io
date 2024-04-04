@@ -33,7 +33,7 @@ Assistant Professor in the School of Informatics, Computing, and Cyber Systems, 
 
 ### [Kelly Bodwin](https://www.kelly-bodwin.com/)
 
-Associate Professor of Statistics and Data Science at Cal Poly San Luis Obispo, 10+ years R programming.
+Associate Professor of Statistics and Data Science at Cal Poly San Luis Obispo, 10+ years R programming. Book a [15 minute discovery call for free](https://tidycal.com/kellybodwin/15-minute-meeting), or a [60 minute consultation for $100](https://tidycal.com/kellybodwin/60-minute-consulting).
 
 ###  [Tyson Barrett](https://tysonbarrett.com/)
 
