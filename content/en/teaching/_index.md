@@ -1,5 +1,5 @@
 ---
-title: "Data Table Ninjas: Teaching"
+title: "Teaching"
 description: "Our seminars will level up your data science programming skills"
 theme_version: '2.8.2'
 cascade:
