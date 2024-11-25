@@ -1,3 +1,9 @@
 [submodule "themes/hugo-theme-yue"]
 	path = themes/hugo-theme-yue
 	url = https://github.com/CyrusYip/hugo-theme-yue
+[submodule "themes/gohugo-theme-ananke"]
+	path = themes/gohugo-theme-ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/adritian-free-hugo-theme"]
+	path = themes/adritian-free-hugo-theme
+	url = https://github.com/zetxek/adritian-free-hugo-theme

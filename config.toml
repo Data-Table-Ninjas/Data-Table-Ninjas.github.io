@@ -1,7 +1,7 @@
 title = "Data Table Ninjas"
 baseURL = "https://datatableninjas.com"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/halogenica/beautifulhugo"]
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
@@ -23,7 +23,8 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author.name = ""
+  author.github = "Data-Table-Ninjas"
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
@@ -35,4 +36,7 @@ enableRobotsTXT = true
 name = "github"
 url = "https://github.com/Data-Table-Ninjas"
 
+[Author]
+    name = "Toby Dylan HOCKING"
+    github = "Data-Table-Ninjas"
 
