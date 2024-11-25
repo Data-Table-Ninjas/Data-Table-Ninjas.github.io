@@ -26,6 +26,7 @@ enableRobotsTXT = true
   author.name = ""
   author.github = "Data-Table-Ninjas"
   favicon = ""
+  logo = "images/data-table-hex-logo.png" # Expecting square dimensions
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
