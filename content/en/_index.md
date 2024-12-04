@@ -12,7 +12,7 @@ database system. Our services include big data analysis, machine
 learning, data visualization, and [teaching](/teaching/) specialized
 programming classes related to these subjects.
 
-[Who are we?](/about/) We have 20+ years experience in statistical programming and data
+[Who are we?](/contact/) We have 20+ years experience in statistical programming and data
 science, and can show you how the efficiency of `data.table` can be a
 critical part of your big data pipelines, to optimize the use of
 finite computational resouces (time and memory). In benchmarks,
