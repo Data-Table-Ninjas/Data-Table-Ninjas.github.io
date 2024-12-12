@@ -187,14 +187,15 @@ PostgreSQL, as well as alternative storage formats such as CSV, HDF,
 ## Contact and cost
 
 Please email toby.hocking@r-project.org with a description of the programming/teaching project you would like us to do for you, and we can schedule a free discovery call to discuss our proposed solution, with a quote for how much that would cost. 
+Discounts are possible for academic and non-profit clients.
 
 Two of our most popular packages are:
 
-* Half day package, US$1000, for two 90-minute seminars:
+* Half day package, US$3000, for two 90-minute seminars:
   * seminar 8:30-10:00.
   * coffee break 10:00-10:30.
   * seminar 10:30-noon.
-* Full day package, US$2000, for four 90-minute seminars:
+* Full day package, US$6000, for four 90-minute seminars:
   * seminar 8:30-10:00.
   * coffee break 10:00-10:30.
   * seminar 10:30-noon.
@@ -202,7 +203,6 @@ Two of our most popular packages are:
   * seminar 1:30-3:00.
   * coffee break 3:00-3:30.
   * seminar 3:30-5:00.
-
-Travel and hotel expenses would also be required for an in person
-seminar (not applicable if you prefer that we create a virtual webinar
-for your organization).
+* Travel and hotel expenses would also be required for an in person
+  seminar (not applicable if you prefer that we create a virtual
+  webinar for your organization).
