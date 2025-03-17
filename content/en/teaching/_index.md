@@ -25,7 +25,9 @@ including basics such as reading/writing CSV, as well as advanced
 topics such as rolling joins for time series data. Example: [3 hour
 tutorial with exercises presented at LatinR conference, Montevideo,
 Uruguay, Oct
-2023](https://github.com/tdhock/2023-10-LatinR-data.table?tab=readme-ov-file#english).
+2023](https://github.com/tdhock/2023-10-LatinR-data.table?tab=readme-ov-file#english),
+[video of 90 minute talk at RUG meeting, Madrid, Spain, Feb
+2025](https://vimeo.com/1061999204).
 
 ### `torch` for deep learning in R and python
 
