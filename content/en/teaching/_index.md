@@ -107,7 +107,8 @@ pages).  Examples: [The animint2 Manual presented in a tutorial at the
 international useR 2016
 conference](https://rcdata.nau.edu/genomic-ml/animint2-manual/Ch02-ggplot2.html),
 [Visualizing prediction error blog
-post](https://tdhock.github.io/blog/2024/viz-pred-err/).
+post](https://tdhock.github.io/blog/2024/viz-pred-err/),
+[Video at Toulouse-Datavis 2025](https://www.youtube.com/watch?v=Em6AVJi37zo).
 
 ### R package development
 
