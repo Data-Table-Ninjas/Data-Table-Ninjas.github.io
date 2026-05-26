@@ -98,6 +98,7 @@ Do you have to update R scripts or functions that were written many weeks/months
 We teach seminars about organizing R code into packages, complete with functions, tests, documentation, development on GitHub, and easy installation from CRAN.
 Example:
 
+* Slides: [R packaging on GitHub](https://docs.google.com/presentation/d/1OLqeL_gRXsQYJxPTujpRcEVzAW7l81s8UTPuKErqBvI/edit?usp=sharing).
 * [Exercises from unsupervised learning class at Northern Arizona University, Fall 2023](https://github.com/tdhock/2023-08-unsupervised-learning/blob/main/homeworks/Rpkg.org).
 
 ### C/C++ code in R packages and python modules
@@ -107,6 +108,7 @@ We teach about how to interface R packages and python modules with C/C++ code, w
 Example:
 
 * [Youtube video tutorial series, Make an R package with C++ code](https://www.youtube.com/playlist?list=PLwc48KSH3D1OkObQ22NHbFwEzof2CguJJ).
+* Slides about calling C++ functions, for my class (in French) about creating R and Python packages, using [Rcpp](https://docs.google.com/presentation/d/1_07zwe1RA_oY0QS8LZ7aqipKKNWmhdvCLn_XIyGvowI/edit?slide=id.g3d1c8e3c36a_0_6#slide=id.g3d1c8e3c36a_0_6) and [pybind11](https://docs.google.com/presentation/d/1gt9H9uRcep5-O6M9Mkkv2jjouK9jEHBWAWjXflyuJ6c/edit?slide=id.g3cf41340c08_0_20#slide=id.g3cf41340c08_0_20).
 
 ### Reproducible analysis and report generation
 
