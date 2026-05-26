@@ -116,6 +116,7 @@ Do you need to generate reports every day/week/month, based on constantly update
 We teach reproducible analysis using `rmarkdown` and `quarto`, which can be used to generate reports in a variety of output formats (HTML, PDF, Word docx, etc).
 Examples:
 
+* Webinar: "Collaborative web sites with GitHub+Netlify" [Video](https://youtu.be/W8ZqRq5TzPk), [Slides](https://docs.google.com/presentation/d/1JxfQnova7WlVuIyVXVNIAfogrqodBOx5kMWwj7DUiJg).
 * Daily report created using `rmarkdown`: [new reverse dependency check report generated every day to make sure `data.table` is compatible with packages that depend on it](https://github.com/Rdatatable/data.table/wiki/Revdep-checks).
 * "Textbook" web sites created using `quarto`: Animint2 manual in [English](https://animint-manual-en.netlify.app) and [French](https://animint-manual-fr.netlify.app).
 
