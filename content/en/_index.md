@@ -7,8 +7,9 @@ cascade:
 ---
 
 We are a consulting company specializing in services related to
-`data.table`, which is an R package that provides a high performance
-database system. Our services include big data analysis, machine
+`data.table`, which is an R package that provides a high-performance
+in-memory database system.
+Our services include big data analysis, machine
 learning, data visualization, and [teaching](/teaching/) specialized
 programming classes related to these subjects.
 

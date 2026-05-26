@@ -137,8 +137,10 @@ Do you have lots of data sets, or machine learning algorithms, or train/test spl
 We teach about how to parallelize [Python](https://tdhock.github.io/blog/2022/cross-validation-cluster/) and [R](https://tdhock.github.io/blog/2020/monsoon-batchtools/) code, using software such as SLURM, `batchtools`, and `MPI`.
 Examples:
 
-* [Cross-validation experiments with torch learners](https://tdhock.github.io/blog/2024/mlr3torch/).
-* [`data.table` reverse dependency checks involve 1500+ dependent packages, each checked in parallel, reducing 2-3 weeks of wall time to ~10 hours](https://github.com/Rdatatable/data.table/wiki/Revdep-checks).
+* Slides: [Validation croisée dans R en parallèle sur une grappe de calcul](https://docs.google.com/presentation/d/1qTtOtOU_l9sxcAsFHqvPLOaLrNlnMv_gIfYmj8lv4Ko/edit?slide=id.p#slide=id.p).
+* Slides: [Python pour la validation croisée en parallèle](https://docs.google.com/presentation/d/11YrfcwdXI515qd1Iy-dCgwn65hREenbssHNK3-znIGo/edit?slide=id.p#slide=id.p).
+* Blog: [Cross-validation experiments with torch learners](https://tdhock.github.io/blog/2024/mlr3torch/).
+* Use case: [`data.table` reverse dependency checks involve 1500+ dependent packages, each checked in parallel, reducing 2-3 weeks of wall time to ~10 hours](https://github.com/Rdatatable/data.table/wiki/Revdep-checks).
 
 ### Relative advantages of python and R
 
@@ -146,7 +148,7 @@ Are you an expert in python/pandas, who wonders what are its advantages/disadvan
 We teach about the relative strengths/weaknesses of different libraries/languages, including detailed comparisons of syntax, functionality, and performance.
 Example:
 
-* [Comparing `data.table` reshape to `duckdb` and `polars`](https://rdatatable-community.github.io/The-Raft/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/).
+* [Comparing `data.table` reshape to `duckdb` and `polars`](https://data-table-raft.netlify.app/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/).
 * [Update about data reshaping and visualization in R and python](https://tdhock.github.io/blog/2021/data-reshape-viz-update/).
 * [Benchmarking `data.table` with `polars`, `duckdb`, and `pandas`](https://tdhock.github.io/blog/2024/pandas-dt/)
 
