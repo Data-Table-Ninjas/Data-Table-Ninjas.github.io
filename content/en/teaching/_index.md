@@ -31,7 +31,6 @@ Examples:
 * [Blog about custom AUM loss function for torch in Python](https://tdhock.github.io/blog/2024/torch-roc-aum/),
 * [Blog about custom AUM loss function for torch in R](https://tdhock.github.io/blog/2024/auto-grad-overhead/).
 
-
 ### Machine learning with `mlr3` package
 
 Do you want to be able to easily compare prediction accuracy of different machine learning algorithms, to help you decide which one you should deploy for your own data sets?
@@ -39,8 +38,10 @@ We teach how to do that using the `mlr3` framework, which provides an easy-to-us
 Advanced seminars include parallelization using `mlr3batchmark` and `mlr3resampling` packages.
 Examples:
 
-* [Cross-validation experiments with torch learners](https://tdhock.github.io/blog/2024/mlr3torch/),
-* [The importance of hyper-parameter tuning](https://tdhock.github.io/blog/2024/hyper-parameter-tuning/).
+* Slides: [mlr3resampling for machine learning benchmarks in R](https://docs.google.com/presentation/d/1gyK3a8zGBHo0mKJXrgkf_YaS3qMmriF2ltRY4HlAKlM/edit?slide=id.p#slide=id.p)
+* Vignette: [Benchmarking projects](https://mlr3resampling.netlify.app/doc/proj)
+* Blog: [Cross-validation experiments with torch learners](https://tdhock.github.io/blog/2024/mlr3torch/),
+* Blog: [The importance of hyper-parameter tuning](https://tdhock.github.io/blog/2024/hyper-parameter-tuning/).
 
 ### Advanced cross-validation for evaluating machine learning model predictions
 
@@ -50,8 +51,10 @@ Or if your machine learning algorithm would get better predictions if you had mo
 We teach how to answer these questions with the easily paralellizable implementation of cross-validation in our [`mlr3resampling`](https://github.com/tdhock/mlr3resampling?tab=readme-ov-file#installation) R package.
 Examples:
 
-* [New code for various kinds of cross-validation blog post](https://tdhock.github.io/blog/2024/cv-all-same-new/),
-* [Slides for talk about Same/Other/All K-fold cross-validation (SOAK)](https://github.com/tdhock/two-new-algos-sci-ml?tab=readme-ov-file#title-abstract-slides).
+* Vignette: [Demonstration of SOAKED on simulations](https://mlr3resampling.netlify.app/doc/soaked)
+* Blog: [New code for various kinds of cross-validation](https://tdhock.github.io/blog/2024/cv-all-same-new/),
+* Slides: [Same/Other/All K-fold cross-validation (SOAK)](https://github.com/tdhock/two-new-algos-sci-ml?tab=readme-ov-file#title-abstract-slides).
+* Slides: [Cross-validation with groups in multiple strata](https://docs.google.com/presentation/d/1gXEqaPQBdJxA39iLqy6SlpA1LZGHcOOgJ1dT1_lzVlo/edit?slide=id.g3e427d48959_0_0#slide=id.g3e427d48959_0_0) and vignette [Using subset with group and stratum](https://mlr3resampling.netlify.app/doc/subset_group_stratum)
 
 ### Regular expressions (regex) for text parsing and data reshaping
 
