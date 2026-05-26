@@ -29,7 +29,7 @@ Examples:
 
 * [Introduction to Deep Learning in R, a 2 hour lecture for Research Bazaar Arizona, Flagstaff, April 2023](https://github.com/tdhock/2023-res-baz-az?tab=readme-ov-file#19-april-2023-workshop),
 * [Blog about custom AUM loss function for torch in Python](https://tdhock.github.io/blog/2024/torch-roc-aum/),
-* [Blog about custom AUM loss function torch in R](https://tdhock.github.io/blog/2024/auto-grad-overhead/)).
+* [Blog about custom AUM loss function for torch in R](https://tdhock.github.io/blog/2024/auto-grad-overhead/).
 
 
 ### Machine learning with `mlr3` package
