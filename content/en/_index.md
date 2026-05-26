@@ -24,7 +24,7 @@ python pandas, polars, arrow, duckdb, etc):
 * [Blog: code for comparing `data.table` with `pandas`, `duckdb`, and `polars`](https://tdhock.github.io/blog/2024/pandas-dt/), in terms of CSV reading/writing and aggregation.
 * [Blog: code for comparing `data.table` with base R, `dplyr`, `collapse`, and `arrow`](https://tdhock.github.io/blog/2023/dt-atime-figures/), in terms of CSV reading/writing and aggregation.
 * [Blog: code for comparing `data.table` with `duckdb` and
-  `polars`](https://rdatatable-community.github.io/The-Raft/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/),
+  `polars`](https://data-table-raft.netlify.app/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/),
   in terms of functionality and speed for data reshaping operations
   (SQL PIVOT/UNPIVOT).
 * [duckdb labs benchmark web
